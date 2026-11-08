@@ -2,6 +2,15 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
+
+vless://48ae6841-df3d-4707-9f71-099826849f97@homestead-walloping.sports-streams.org:443?encryption=none&type=xhttp&path=%2F&host=liggo.love&mode=auto&security=reality&sni=liggo.love&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Istanbul%20%C2%B7%20Domain
+vless://48ae6841-df3d-4707-9f71-099826849f97@coughed-gongs.freevideochats.org:443?encryption=none&type=xhttp&path=%2F&host=repost.uz&mode=auto&security=reality&sni=repost.uz&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Virginia%20%C2%B7%20Domain
+vless://48ae6841-df3d-4707-9f71-099826849f97@87.120.106.95:443?encryption=none&type=xhttp&path=%2F&host=liggo.love&mode=auto&security=reality&sni=liggo.love&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Istanbul%20%C2%B7%20IPv4
+vless://48ae6841-df3d-4707-9f71-099826849f97@[2a03:90c0:162:1::360]:443?encryption=none&type=xhttp&path=%2F&host=liggo.love&mode=auto&security=reality&sni=liggo.love&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Istanbul%20%C2%B7%20IPv6
+vless://48ae6841-df3d-4707-9f71-099826849f97@162.216.231.214:443?encryption=none&type=xhttp&path=%2F&host=repost.uz&mode=auto&security=reality&sni=repost.uz&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Virginia%20%C2%B7%20IPv4
+vless://48ae6841-df3d-4707-9f71-099826849f97@[2a03:90c0:32:1::541]:443?encryption=none&type=xhttp&path=%2F&host=repost.uz&mode=auto&security=reality&sni=repost.uz&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#Kansas%20City%20via%20Virginia%20%C2%B7%20IPv6
+
+
 vless://35821d30-5917-4717-b87d-884862a0bc7d@brave-ploys.video-streams.org:443?encryption=none&type=ws&path=%2Fws&host=brave-ploys.video-streams.org&security=tls&sni=brave-ploys.video-streams.org&fp=chrome#کاظم1
 vless://35821d30-5917-4717-b87d-884862a0bc7d@twiddled-gouging.cdn-content.com:443?encryption=none&type=ws&path=%2Fws&host=twiddled-gouging.cdn-content.com&security=tls&sni=twiddled-gouging.cdn-content.com&fp=chrome#کاظم2
 
